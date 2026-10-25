@@ -1,0 +1,11 @@
+// Placeholder product data for the demo. Replace with approved product data later.
+window.PRODUCTS=[
+{id:1,name:"Daily Gentle Cleanser",category:"Cleanser",price:650,tag:"New",popular:8,description:"A cleanser concept for a simple everyday routine.",image:"https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?auto=format&fit=crop&w=800&q=80"},
+{id:2,name:"Hydrating Face Serum",category:"Serum",price:1200,tag:"Bestseller",popular:10,description:"A serum concept for layering into a skincare routine.",image:"https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80"},
+{id:3,name:"Daily Moisture Cream",category:"Moisturizer",price:950,tag:"Popular",popular:9,description:"A moisturiser concept for daily skincare.",image:"https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=800&q=80"},
+{id:4,name:"Lightweight Sun Care",category:"Sunscreen",price:1100,tag:"Daily care",popular:7,description:"A sun-care product concept for a daytime routine.",image:"https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"},
+{id:5,name:"Soft Foam Cleanser",category:"Cleanser",price:720,tag:"New",popular:6,description:"A foam cleanser concept for everyday use.",image:"https://images.unsplash.com/photo-1570194065650-d99fb4bedf0a?auto=format&fit=crop&w=800&q=80"},
+{id:6,name:"Daily Glow Serum",category:"Serum",price:1350,tag:"Bestseller",popular:9,description:"A serum concept to add to a routine.",image:"https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=800&q=80"},
+{id:7,name:"Rich Barrier Cream",category:"Moisturizer",price:1050,tag:"Sale",popular:5,description:"A rich cream concept for a moisturising routine.",image:"https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=800&q=80"},
+{id:8,name:"Everyday UV Lotion",category:"Sunscreen",price:1250,tag:"Sale",popular:8,description:"A daily sun-care product concept.",image:"https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?auto=format&fit=crop&w=800&q=80"}
+];
